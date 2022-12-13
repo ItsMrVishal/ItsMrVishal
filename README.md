@@ -30,7 +30,8 @@
 
 <br/>
 
-
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/GIF/github.gif"></a>
+<br/>
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ItsMrVishal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ItsMrVishal&theme=tokyonight&hide_border=false)<br/>
