@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="C:\Users\visha\Desktop\ItsMrVishal\GIF\Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;beautiful people of the internet!&gt;!
   <a target="_blank">
-    <img src="C:\Users\visha\Desktop\ItsMrVishal\GIF\Handshake.gif" width="40px" />
+    <img src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/GIF/Handshake.gif" width="40px" />
   </a>
 </h1>
 
