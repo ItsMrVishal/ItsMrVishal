@@ -54,9 +54,9 @@
 #
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/left.png">
+    <img height="150" width="175" src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/PNG/left.png">
     <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMrVishal&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/PNG/right.png">
   </a>
 </p>
 
@@ -65,7 +65,7 @@
   <a href="https://github.com/ItsMrVishal">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsMrVishal&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/ProfessorTkd">
+  <a href="https://github.com/ItsMrVishal">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMrVishal&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
