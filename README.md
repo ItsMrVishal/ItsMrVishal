@@ -55,16 +55,11 @@
   <a href="https://www.instagram.com/v_shal0812/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/SVG/instagram.svg"/></code>
   </a>
-  
-
-</p>
-<br/>
-
-
-  
   <a href="https://leetcode.com/vishal19455/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/PNG/lc.png"/></code>
   </a>
+  
+
 </p>
 
 <br/>
