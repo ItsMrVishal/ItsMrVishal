@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="C:\Users\visha\Desktop\ItsMrVishal\GIF\image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ItsMrVishal/ItsMrVishal/blob/main/GIF/image.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning **𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
@@ -43,13 +43,12 @@
 
 <br/>
 
-#
-  
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ItsMrVishal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ItsMrVishal&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMrVishal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-<br>
 <br>
 
 #
@@ -74,19 +73,7 @@
 </p>
 <br/>
 
-<!-- <p align="center">
-  <a href="https://www.hackerrank.com/professortkd31" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/hr.png"/></code>
-  </a> -->
 
-
-  <!-- <a href="https://www.hackerearth.com/@professortkd31" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/SVG/he.svg"/></code>
-  </a> -->
-
-  <!-- <a href="https://www.codechef.com/users/professortkd31" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/SVG/cc.svg"/></code>
-  </a> -->
   
   <a href="https://leetcode.com/vishal19455/" target="_blank">
     <code><img height="60" width="60" src="C:\Users\visha\Desktop\ItsMrVishal\PNG\lc.png"/></code>
@@ -102,4 +89,4 @@
 
 #
 
-![footer](C:\Users\visha\Desktop\ItsMrVishal\PNG\footer.png)
+![footer](https://github.com/ItsMrVishal/ItsMrVishal/blob/main/PNG/footer.png)
