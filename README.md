@@ -55,7 +55,7 @@
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMrVishal&theme=dark&hide_border=true"/>
+    <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMrVishal&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/ProfessorTkd/ProfessorTkd/blob/main/PNG/right.png">
   </a>
 </p>
